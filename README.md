@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kani</h1>
-<h3 align="center">A passionate Software Engineer with more than 10 years of experience in software engineering and application development. Highly effective at developing new programs and fixing problems with existing systems. Proficient in Java, Golang and Agile/Scrum methodology</h3>
+<h3 align="center">A passionate Software Engineer with more than 12 years of experience in software engineering and application development. Highly effective at developing new programs and fixing problems with existing systems. Proficient in Java, Golang and Agile/Scrum methodology</h3>
 
 <p align="left"> <a href="https://twitter.com/kanisanthosh" target="blank"><img src="https://img.shields.io/twitter/follow/kanisanthosh?logo=twitter&style=for-the-badge" alt="kanisanthosh" /></a> </p>
 
-- 🔭 I’m currently working on [Microfocus ArcSight](https://www.microfocus.com/en-us/cyberres/secops/arcsight-intelligence)
+- 🔭 I’m currently working on (ArcSight, OpenText)[https://www.microfocus.com/en-us/cyberres/secops/arcsight-esm]
 
 - 🌱 I’m currently learning **Kubernetes and Cloud-Native Ecosystems**
 
