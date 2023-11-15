@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanisanthosh" target="blank"><img src="https://img.shields.io/twitter/follow/kanisanthosh?logo=twitter&style=for-the-badge" alt="kanisanthosh" /></a> </p>
 
-- 🔭 I’m currently working on (ArcSight, OpenText)[https://www.microfocus.com/en-us/cyberres/secops/arcsight-esm]
+- 🔭 I’m currently working on [ArcSight, OpenText](https://www.microfocus.com/en-us/cyberres/secops/arcsight-esm)
 
 - 🌱 I’m currently learning **Kubernetes and Cloud-Native Ecosystems**
 
